@@ -1,0 +1,14 @@
+nav {
+  display: flex;
+}
+
+.dropdown {
+  position: relative;
+}
+.dropdown-menu {
+  position: absolute;
+}
+ul {
+  display: flex;
+  text-decoration: none;
+}
